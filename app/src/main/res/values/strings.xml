@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dropbox Rest Client</string>
+    <string name="dbx_app_oauth2_token">HERE_SHOULD_BE_YOUR_OAUTH2_TOKEN</string>
+</resources>
